@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經筌
-#+DATE: 2015-09-23 09:39:51
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 22:14:34.021374
+#+PROPERTY: ID KR1e0052
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六
 <pb:KR1e0052_WYG_016-1a>¶
 欽定四庫全書¶
 　春秋經筌卷十六　　　　宋　趙鵬飛　撰¶
@@ -740,4 +742,3 @@
 　¶
 　¶
 　春秋經筌卷十六¶
-
